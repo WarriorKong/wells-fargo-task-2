@@ -46,7 +46,7 @@ class Portfolio {
     }
 
     public void setClientId(long id) {
-        this.clientId = id;
+        this.clientID = id;
     }
 
 }
